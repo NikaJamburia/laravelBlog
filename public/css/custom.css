@@ -1,0 +1,6 @@
+.admin-navigation-link:hover{
+    background: #6c757d;
+}
+.admin-navigation-link{
+    text-decoration: none !important;
+}
